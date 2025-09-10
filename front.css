@@ -1,0 +1,162 @@
+@font-face {
+    font-family: "Asimov";
+    src: url(Asimovian-Regular.ttf);
+}
+
+@font-face {
+    font-family: "PIXY";
+    src: url(PIXY.ttf);
+}
+
+.ramka{
+    background-color: rgb(36, 34, 30) ; 
+    min-height: 180px;
+    
+}
+.block{
+    width: 25%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.block-text{
+    width: 42%;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.zagolovok{
+    color: rgb(255, 255, 255);
+    font-size:45px;
+    font-family: "PIXY";   
+}
+.school-logo{
+    width: 300px;;
+    text-align: left;
+    margin-bottom: 50px;    
+}
+.tpu-logo{
+    width: 180px;
+    text-align: right;
+    margin-bottom: 50px;
+}
+.main_ramka{
+    height: 200px;
+    min-height: 500px;
+}
+
+.div-1{
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    min-height: 600px;
+    float: left;
+    text-align: center;
+}
+
+.div-2{
+    width: 50%;
+    min-height: 600px;
+    float: right;
+    text-align: center;
+}
+
+.I-and-D{
+    height: 500px;
+    margin-top: 50px;
+    border-radius: 25px;
+}
+
+
+.div-3{
+    background-color: rgb(36, 34, 30);
+    width: 50%;
+    min-height: 600px;
+    float: left;
+    text-align: center;
+}
+
+.div-4{
+    background-color: rgb(36, 34, 30);
+    width: 50%;
+    min-height: 600px;
+    float: right;
+    text-align: center;
+}
+
+.div-5{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    float:left;
+    width: 100%;
+    min-height: 800px;
+}
+
+.black_sh{
+    color: rgb(36, 34, 30);
+    font-size: 30px;
+    width: 650px;
+    margin-left: 75px;
+    margin-top: 50px;
+    font-family: "PIXY";
+}
+.white_sh{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    width: 600px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: "PIXY";
+}
+
+.black_sh_end{
+    color: rgb(36, 34, 30);
+    font-size: 30px;
+    width: 1300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-family: "PIXY";
+}
+
+.black_sh_end_href{
+    color: rgb(36, 34, 30);
+    font-size: 30px;
+    width: 1300px;
+    margin-top: 50px;
+    margin-right: 25px;
+    font-family: "PIXY";
+}
+
+.TG{
+    float: left;
+    margin-top: 40px;
+    height: 375px;
+}
+
+.VK{
+    float: left;
+    margin-top: 50px;
+    margin-left: 100px;
+    height: 350px;
+}
+
+.foto-team{
+    height: 500px;
+    margin-top: 50px;
+    border-radius: 25px;
+}
+
+
+.end{
+    background-color: azure;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.end_text{
+    font-size: 15px;
+    color: rgb(114, 114, 114);
+}
